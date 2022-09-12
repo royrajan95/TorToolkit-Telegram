@@ -3,11 +3,11 @@ try:
 except:
     class ExecVars:
         # Set true if its VPS
-        IS_VPS = False
+        IS_VPS = True
         
         API_HASH = "6f3a051b5da7f5b499cde019d273fca1"
         API_ID = 5503927
-        BOT_TOKEN = "5591234203:AAF4qwFrGXbIbcagdv3P-o89UIQAYfYbUMQ"
+        BOT_TOKEN = "5640495305:AAFWwEniZAAh499sOGVT3OV6RWWkLd_SUGk"
         BASE_URL_OF_BOT = "http://35.224.19.1"
 
         # Edit the server port if you want to keep it default though.
