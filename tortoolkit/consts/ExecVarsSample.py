@@ -42,10 +42,10 @@ except:
         DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
         
         # MEGA CONFIG
-        MEGA_ENABLE = True
-        MEGA_API = "U9JCEBjB"
-        MEGA_UNAME = s4sparkey@gmail.com
-        MEGA_PASS = "2Aaf1f1b"
+        MEGA_ENABLE = False
+        MEGA_API = ""
+        MEGA_UNAME = None
+        MEGA_PASS = None
 
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
