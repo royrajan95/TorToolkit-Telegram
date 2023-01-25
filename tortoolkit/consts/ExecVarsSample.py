@@ -45,7 +45,7 @@ except:
         MEGA_ENABLE = True
         MEGA_API = "U9JCEBjB"
         MEGA_UNAME = s4sparkey@gmail.com
-        MEGA_PASS = 2Aaf1f1b
+        MEGA_PASS = "2Aaf1f1b"
 
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
