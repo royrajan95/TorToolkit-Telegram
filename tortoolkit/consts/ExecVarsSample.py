@@ -7,8 +7,8 @@ except:
         
         API_HASH = "6f3a051b5da7f5b499cde019d273fca1"
         API_ID = 5503927
-        BOT_TOKEN = "5640495305:AAFWwEniZAAh499sOGVT3OV6RWWkLd_SUGk"
-        BASE_URL_OF_BOT = "http://35.224.19.1"
+        BOT_TOKEN = "5640495305:AAFBrC7jHhUVk1vOXoJ8DJLl3R197ovPIzU"
+        BASE_URL_OF_BOT = "http://103.155.223.193"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
